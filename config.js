@@ -6,15 +6,14 @@ import fs from 'fs'
 
 //OwnerShip
 global.owner = [
-  ['919172389527', 'Shizo Techie ❤️✨', true],
-  ['919637987574', 'S.AI Bot', true],
-  ['916207142994', 'Mr. Lens Lord 📸']
+  ['917090462940', 'RDJ ❤️✨', true],
+  ['27688408036', 'RDJ.AI Bot', true]
 ]
-global.mods = []
-global.prems = []
+global.mods = ['917090462940', '27688408036']
+global.prems = ['917090462940', '27688408036']
 
-global.author = 'Shizo The Techie'
-global.botname = 'ShizoBot'
+global.author = 'Jeff'
+global.botname = 'RDJ-Bot'
  
  
  //Api's
@@ -29,8 +28,8 @@ global.APIKeys = {
 global.shizokeys = 'shizo'
 
 //Sticker Watermarks
-global.stkpack = 'ShizoBot 🥵'
-global.stkowner = '© Shizo The Techie'
+global.stkpack = 'Jeff 💗'
+global.stkowner = '© RDJ-JEFF'
 
 //management
 global.bug = '*!! Sorry 💢 !!*\nSomething went wrong 🌋'
